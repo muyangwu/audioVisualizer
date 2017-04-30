@@ -3,4 +3,4 @@
 
 
 # Demo
-  Click [here](https://muyangwu.github.io/audioVisualizer/) to upload an audio file an see the demo.
+  Click [here](https://muyangwu.github.io/audioVisualizer/) to upload an audio file to see the demo.
