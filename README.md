@@ -1,5 +1,5 @@
-# audioVisualizer
-Using HTML5 Web Audio Api to achieve audio visualization.
+# Audio Visualizer
+  Using HTML5 Web Audio Api to achieve audio visualization.
 
 
 # Demo
