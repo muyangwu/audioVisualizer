@@ -3,6 +3,4 @@
 
 
 # Demo
-  Click [here]() to upload an audio file an see the demo.
-  http://github.com - automatic!
-[GitHub](http://github.com)
+  Click [here](https://muyangwu.github.io/audioVisualizer/) to upload an audio file an see the demo.
